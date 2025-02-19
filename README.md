@@ -13,9 +13,8 @@ I'm confident in my ability to research and quickly adapt to new technologies an
 I'm actively addressing areas for improvement, including transition from being a Genralist to a Specialist. I'm eager to bring my skills, enthusiasm, and strong work ethic to a forward-thinking organization dedicated to protecting sensitive information and staying ahead of emerging threats. Thank you for considering my application."
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey across different domains of computer science and engineering has led me to develop a strong passion for cybersecurity, knowing well that many organizations take security as an after thought over productivity and profitability, while neglecting the effect that an unprecedented or unplanned cyber attack could cause in brand reputation, regulatory fines and more. I am more than eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
