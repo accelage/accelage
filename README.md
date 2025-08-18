@@ -17,18 +17,21 @@ I'm actively addressing areas for improvement, including transition from being a
 My journey across different domains of computer science and engineering has led me to develop a strong passion for cybersecurity, knowing well that many organizations take security as an after thought over productivity and profitability, while neglecting the effect that an unprecedented or unplanned cyber attack could cause in brand reputation, regulatory fines and more. I am more than eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 
-## Certifications and Coursework
+## Virtual Internships
 
-| Skill                                         | Associated Project         |
+| Skill                                         | Certficate         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
+| Mastercard          | <a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/mfxGwGDp6WkQmtmTf/vcKAB5yYAgvemepGQ_mfxGwGDp6WkQmtmTf_vbmc8c9AnpkMYX7pj_1755388101630_completion_certificate.pdf)">Certificate</a>|
+| Deloitte | <a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/9PBTqmSxAf6zZTseP/E9pA6qsdbeyEkp3ti_9PBTqmSxAf6zZTseP_vbmc8c9AnpkMYX7pj_1755391040615_completion_certificate.pdf)">Certificate</a>|
+| AIG         | <a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/4nAmAbTbHbnGMNSyo/2ZFnEGEDKTQMtEv9C_4nAmAbTbHbnGMNSyo_vbmc8c9AnpkMYX7pj_1755388329422_completion_certificate.pdf"> Certificate </a>|
+| Commonwealth Bank      | <a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/2sNmYuurxgpFYawco/x52Jy9s26xNbZkTQ7_2sNmYuurxgpFYawco_vbmc8c9AnpkMYX7pj_1755388103720_completion_certificate.pdf"> Certificate </a>|
+| TATA      | <a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/ifobHAoMjQs9s6bKS/gmf3ypEXBj2wvfQWC_ifobHAoMjQs9s6bKS_vbmc8c9AnpkMYX7pj_1755388103323_completion_certificate.pdf"> Certificate </a>|
+| Datacom     | <a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/gCW7Xki5Y3vNpBmnn/yTszJTvkHFBH6zAn3_gCW7Xki5Y3vNpBmnn_vbmc8c9AnpkMYX7pj_1755388102080_completion_certificate.pdf"> Certificate </a>|
+| Telstra      | <a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/M6JGAwZ52SMusMEcK/RNhbu8QnDzthwynEf_M6JGAwZ52SMusMEcK_vbmc8c9AnpkMYX7pj_1755388102515_completion_certificate.pdf"> Certificate </a>|
 
 
 
-## Cybersecurity Projects and Labs
+## Courseworks
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
