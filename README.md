@@ -20,13 +20,13 @@ My journey across different domains of computer science and engineering has led 
 ## Virtual Internships
 
 
-### <a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/mfxGwGDp6WkQmtmTf/vcKAB5yYAgvemepGQ_mfxGwGDp6WkQmtmTf_vbmc8c9AnpkMYX7pj_1755388101630_completion_certificate.pdf)">Mastercard</a><br>
-### <a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/9PBTqmSxAf6zZTseP/E9pA6qsdbeyEkp3ti_9PBTqmSxAf6zZTseP_vbmc8c9AnpkMYX7pj_1755391040615_completion_certificate.pdf)">Deloitte</a><br>
-### <a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/4nAmAbTbHbnGMNSyo/2ZFnEGEDKTQMtEv9C_4nAmAbTbHbnGMNSyo_vbmc8c9AnpkMYX7pj_1755388329422_completion_certificate.pdf"> AIG </a><br>
-### <a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/2sNmYuurxgpFYawco/x52Jy9s26xNbZkTQ7_2sNmYuurxgpFYawco_vbmc8c9AnpkMYX7pj_1755388103720_completion_certificate.pdf"> CommonWealth Bank</a><br>
-### <a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/ifobHAoMjQs9s6bKS/gmf3ypEXBj2wvfQWC_ifobHAoMjQs9s6bKS_vbmc8c9AnpkMYX7pj_1755388103323_completion_certificate.pdf"> TATA </a><br>
-### <a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/gCW7Xki5Y3vNpBmnn/yTszJTvkHFBH6zAn3_gCW7Xki5Y3vNpBmnn_vbmc8c9AnpkMYX7pj_1755388102080_completion_certificate.pdf"> Datacom </a><br>
-### <a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/M6JGAwZ52SMusMEcK/RNhbu8QnDzthwynEf_M6JGAwZ52SMusMEcK_vbmc8c9AnpkMYX7pj_1755388102515_completion_certificate.pdf"> Telstra </a><br>
+#### <a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/mfxGwGDp6WkQmtmTf/vcKAB5yYAgvemepGQ_mfxGwGDp6WkQmtmTf_vbmc8c9AnpkMYX7pj_1755388101630_completion_certificate.pdf)">Mastercard</a><br>
+#### <a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/9PBTqmSxAf6zZTseP/E9pA6qsdbeyEkp3ti_9PBTqmSxAf6zZTseP_vbmc8c9AnpkMYX7pj_1755391040615_completion_certificate.pdf)">Deloitte</a><br>
+#### <a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/4nAmAbTbHbnGMNSyo/2ZFnEGEDKTQMtEv9C_4nAmAbTbHbnGMNSyo_vbmc8c9AnpkMYX7pj_1755388329422_completion_certificate.pdf"> AIG </a><br>
+#### <a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/2sNmYuurxgpFYawco/x52Jy9s26xNbZkTQ7_2sNmYuurxgpFYawco_vbmc8c9AnpkMYX7pj_1755388103720_completion_certificate.pdf"> CommonWealth Bank</a><br>
+#### <a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/ifobHAoMjQs9s6bKS/gmf3ypEXBj2wvfQWC_ifobHAoMjQs9s6bKS_vbmc8c9AnpkMYX7pj_1755388103323_completion_certificate.pdf"> TATA </a><br>
+#### <a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/gCW7Xki5Y3vNpBmnn/yTszJTvkHFBH6zAn3_gCW7Xki5Y3vNpBmnn_vbmc8c9AnpkMYX7pj_1755388102080_completion_certificate.pdf"> Datacom </a><br>
+#### <a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/M6JGAwZ52SMusMEcK/RNhbu8QnDzthwynEf_M6JGAwZ52SMusMEcK_vbmc8c9AnpkMYX7pj_1755388102515_completion_certificate.pdf"> Telstra </a><br>
 
 
 
