@@ -58,7 +58,7 @@ My journey across different domains of computer science and engineering has led 
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Google Chronicle&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Google Chronicle-005571?&style=for-the-badge&logo=Chronicle&logoColor=white" />
 </div>
 
 ## Certifications (in view)
