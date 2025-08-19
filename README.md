@@ -1,4 +1,4 @@
-# Hello, I'm Temitope Ademola-Davids
+# Hello 👋, I'm Temitope Ademola-Davids and its nice to meet you :handshake:
 <a href="https://linkedin.com/in/topedavids"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am a CS graduate with a profound interest in creating a cybersafe world and a dedication to solving complex problems, I'm excited to leverage skills in information technology to launch a career in cybersecurity. Over time, I've developed a deep root understanding of complex systems and networks and my undying passion for cybersecurity has led me to actively pursue trainings, certifications and hands-on experience in this field.
